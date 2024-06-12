@@ -22,7 +22,7 @@ const Navbar = () => {
             noWrap
             sx={{
               flexGrow: 1,
-              m: 1,
+              my: 1,
               display: { xs: "flex", md: "flex" },
               fontFamily: "monospace",
               fontWeight: 700,
